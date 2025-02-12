@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-22">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Greemus/Downloads/spring-aop-7.0.0-M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greemus/Downloads/spring-jcl-6.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greemus/Downloads/spring-context-7.0.0-M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greemus/Downloads/spring-beans-7.0.0-M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greemus/Downloads/spring-core-7.0.0-M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greemus/Downloads/spring-xml-4.0.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Greemus/Downloads/spring-expression-7.0.0-M1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

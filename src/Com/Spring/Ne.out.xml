@@ -1,0 +1,10 @@
+<html>
+    <body>
+        <h2>Book Information</h2>
+        <table border="1">
+            <tr>
+                <th>Title</th><th>Author</th>
+            </tr>
+        </table>
+    </body>
+</html>
